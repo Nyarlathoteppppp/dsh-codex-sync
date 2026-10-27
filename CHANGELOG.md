@@ -2,7 +2,7 @@
 
 ## Unreleased
 
-- Preserve repeated user prompts and their turns after assistant replies or tool/reasoning activity; still collapse consecutive prompt echoes (issue #9).
+- Preserve repeated user prompts and their turns after assistant replies or tool/reasoning activity; still collapse consecutive prompt echoes (issue #9, PR #10).
 
 ## 1.6.2 — 2026-10-05
 
